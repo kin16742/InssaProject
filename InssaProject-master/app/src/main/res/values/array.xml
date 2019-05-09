@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item >기계공학과</item>
+        <item >국어국문학과</item>
+        <item >간호학과</item>
+        <item >컴퓨터공학과</item>
+        <item >정보통신공학과</item>
+        <item >전기공학과</item>
+        <item >신소재공학과</item>
+    </string-array>
+    <string-array name="grade">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+    </string-array>
+</resources>
